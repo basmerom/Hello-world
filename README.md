@@ -1,2 +1,5 @@
 # Hello-world
-Just another repository
+
+Hi guys,
+
+I am writing my fist commit.
